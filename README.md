@@ -136,3 +136,5 @@ else
 fi
 
 print_header "REPORT COMPLETE"
+
+# for task https://roadmap.sh/projects/server-stats
